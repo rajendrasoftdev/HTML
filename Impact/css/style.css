@@ -1,0 +1,43 @@
+
+.navbar{
+    display: flex;
+    background-color: aliceblue;
+}
+
+.ul{
+   display: flex;
+    list-style-type: none;
+    gap: 25px;
+    margin-left: 300px;
+    padding-top: 35px;
+   
+}
+
+.heading{
+    padding-left: 92px;
+   
+}
+.head{
+   text-align: center;
+   padding-top: 61px;
+}
+.mainpage{
+    font-size: 34px;
+}
+.card{
+    background-color: aliceblue;
+   margin-top: 70px;
+}
+.finger{
+    font-size: 35px;
+}
+.layer{
+    font-size: 35px;
+}
+.painting{
+    font-size: 35px;
+}
+.square{
+    font-size: 35px;
+}
+
